@@ -1,0 +1,107 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.cabecalho{
+
+    background-color: #c0bdb988;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 08px 0;
+    
+    
+}
+.catavento{
+
+    width: 05%;
+    background-position: 100px;
+    font-size: 100%;
+    
+    
+
+
+}
+
+.cabecalhoitem {
+
+    display:inline-block;
+    margin: 0 05px;
+    font-size: 50px;
+    color: rgb(3, 3, 3);
+    font-family: 'Pacifico', cursive;
+    
+
+   
+}
+
+.gatoinicio{
+
+    width: 25%;
+}
+
+.textoinicial{
+    background-image: linear-gradient(#c0bdb988, #EAB7DF );
+    color: rgb(10, 10, 10);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 0;
+    font-family: 'Archivo Black', sans-serif;
+
+
+}
+
+.divsec{
+    width: 35%;
+
+}
+
+.h22 {
+    padding: 24px 0;
+    font-size: 50px;
+
+
+
+}
+
+
+.site-alura{
+
+    font-size: 25px;
+}
+
+.gato01{
+    width: 200px;
+    text-align: center;
+    
+
+}
+
+.divgato{
+
+    text-align: center;
+
+
+}
+
+
+.sectigato{
+
+
+  background-image: linear-gradient(#EAB7DF, #EAB7DF );
+
+}
+
+
+
+.gato01nome{
+
+
+ color: rgb(61, 4, 61);
+}
